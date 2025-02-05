@@ -1,0 +1,26 @@
+{
+  "name": "bot-whatsapp-ia",
+  "version": "1.0.0",
+  "description": "Se inicia la creación de un bot para WhatsApp usando OpenAI y Twilio.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardocarlostoledo/chat-bot-ia.git"
+  },
+  "author": "Toledo Consultora",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.83.0",
+    "twilio": "^5.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
