@@ -21,7 +21,7 @@ Este proyecto es una API para enviar y recibir mensajes de WhatsApp mediante **T
 
 Clona el repositorio y accede al directorio del proyecto:
 ```sh
-git clone https://github.com/usuario/chat-bot-ia.git
+git clone https://github.com/eduardocarlostoledo/chat-bot-ia.git
 cd chat-bot-ia
 ```
 
@@ -67,5 +67,5 @@ Este proyecto está bajo la licencia **ISC**.
 ## ✨ Autor
 
 **Toledo Consultora IT**  
-[www.itconsultoratoledo.com](http://www.itconsultoratoledo.com/)
+[www.toledoconsultora.com](http://www.toledoconsultora.com/)
 
